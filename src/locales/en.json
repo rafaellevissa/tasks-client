@@ -1,0 +1,44 @@
+{
+  "COMMON": {
+    "STATUS": "Information",
+    "YES": "Yes",
+    "NO": "No"
+  },
+  "TASK": {
+    "TITLE": "Tasks",
+    "SHOW_TITLE": "Task",
+    "SHOW_SUBTITLE": "Task Information",
+    "EDIT_TITLE": "EDIT TASK",
+    "EDIT_SUBTITLE": "Provide task information",
+    "ADD_TITLE": "ADD TASK",
+    "ADD_SUBTITLE": "Provide task information",
+    "DELETE_TITLE": "DELETE TASK",
+    "DELETE_CONFIRMATION": "Are you sure you want to delete this task?",
+    "DELETE_SUBMIT": "Delete",
+    "SUBMIT": "Save",
+    "RESOURCES": {
+      "ID": "ID",
+      "TITLE": "Title",
+      "DESCRIPTION": "Description",
+      "STATUS": "Status",
+      "ACTIONS": "Actions"
+    },
+    "ERROR": "Something went wrong while trying to load resources"
+  },
+  "ASIDEMENU": {
+    "TITLE": "CHALLENGE",
+    "TASKS": "Tasks"
+  },
+  "ERROR": {
+    "EXPIRED_SESSION": "Your session has expired.",
+    "VALIDATION": {
+      "NUMBER": "A number must be provided",
+      "MIN": "Below the minimum required characters",
+      "MAX": "You have exceeded the allowed character limit",
+      "EMAIL": "Must be a valid email",
+      "REQUIRED": "This field is required",
+      "DATE": "Must be a valid date",
+      "TOPIC_FORMATION": "Invalid format for topic"
+    }
+  }
+}

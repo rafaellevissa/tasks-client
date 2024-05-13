@@ -1,0 +1,44 @@
+{
+  "COMMON": {
+    "STATUS": "Informações",
+    "YES": "Sim",
+    "NO": "Não"
+  },
+  "TASK": {
+    "TITLE": "Atividades",
+    "SHOW_TITLE": "Atividade",
+    "SHOW_SUBTITLE": "As informações da atividade",
+    "EDIT_TITLE": "EDITAR ATIVIDADE",
+    "EDIT_SUBTITLE": "Informe as informações da atividade",
+    "ADD_TITLE": "ADICIONAR ATIVIDADE",
+    "ADD_SUBTITLE": "Informe as informações da atividade",
+    "DELETE_TITLE": "DELETAR ATIVIDADE",
+    "DELETE_CONFIRMATION": "Tem certeza que deseja deletar este atividade ?",
+    "DELETE_SUBMIT": "Deletar",
+    "SUBMIT": "Salvar",
+    "RESOURCES": {
+      "ID": "ID",
+      "TITLE": "Título",
+      "DESCRIPTION": "Descrição",
+      "STATUS": "Status",
+      "ACTIONS": "Ações"
+    },
+    "ERROR": "Algo deu errado ao tentar carregar os recursos"
+  },
+  "ASIDEMENU": {
+    "TITLE": "CHALLENGE",
+    "TASKS": "Atividades"
+  },
+  "ERROR": {
+    "EXPIRED_SESSION": "Sua sessão expirou.",
+    "VALIDATION": {
+      "NUMBER": "Um número deve ser informado",
+      "MIN": "Abaixo do mínimo de caracteres necessários",
+      "MAX": "Você excedeu a quantidade de caracteres permitidos",
+      "EMAIL": "Deve ser um e-mail válido",
+      "REQUIRED": "O campo é obrigatório",
+      "DATE": "Deve ser uma data válida",
+      "TOPIC_FORMATION": "Formato inválido para tópico"
+    }
+  }
+}
